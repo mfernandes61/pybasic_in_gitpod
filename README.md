@@ -1,5 +1,9 @@
 # An introduction to solving biological problems with Python - course materials
 
+£ Mark version for gitpod
+URL to launch is https://gitpod.io/#github.com/mfernandes61/pybasic_in_gitpod
+
+
 Materials for the course run by the Graduate School of Life Sciences, University of Cambridge.
 
 - Course website: http://pycam.github.io/
