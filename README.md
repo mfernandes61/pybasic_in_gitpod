@@ -1,7 +1,9 @@
 # An introduction to solving biological problems with Python - course materials
 
-£ Mark version for gitpod
+# Mark version for gitpod
 URL to launch is https://gitpod.io/#github.com/mfernandes61/pybasic_in_gitpod
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/mfernandes61/pybasic_in_gitpod>)
+
 
 
 Materials for the course run by the Graduate School of Life Sciences, University of Cambridge.
