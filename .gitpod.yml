@@ -2,6 +2,7 @@ ports:
 - port: 8888
   onOpen: open-browser
 tasks:
-- init: bash $GITPOD_REPO_ROOT/run.sh
-  command: cp -r $GITPOD_REPO_ROOT/.jupyter /home/gitpod
+#annoyingly despite perfectly good env vars existing we have to enter the home dir
+- init: bash /workspace/pybasic_in_gitpod/run.sh
+  command: cp -r /workspace/pybasic_in_gitpod/.jupyter /home/gitpod
 
