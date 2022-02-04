@@ -2,6 +2,6 @@ ports:
 - port: 8888
   onOpen: open-browser
 tasks:
-- init: $GITPOD_REPO_ROOT/run.sh
+- init: bash $GITPOD_REPO_ROOT/run.sh
   command: cp -r $GITPOD_REPO_ROOT/.jupyter /home/gitpod
 
