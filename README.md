@@ -2,7 +2,7 @@
 
 # Mark version for gitpod
 URL to launch is https://gitpod.io/#github.com/mfernandes61/pybasic_in_gitpod
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/mfernandes61/pybasic_in_gitpod>)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/mfernandes61/pybasic_in_gitpod)
 
 
 
