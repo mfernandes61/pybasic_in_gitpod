@@ -3,6 +3,11 @@ ports:
   onOpen: open-browser
 tasks:
 #annoyingly despite perfectly good env vars existing we have to enter the home dir
-- init: bash /workspace/pybasic_in_gitpod/run.sh
-  command: cp -r /workspace/pybasic_in_gitpod/.jupyter /home/gitpod
+  - name: configure
+  - command: cp -r /workspace/pybasic_in_gitpod/.jupyter /home/gitpod
+  
+  - name: launch_server
+  - command: bash /workspace/pybasic_in_gitpod/run.sh
+
+  
 
